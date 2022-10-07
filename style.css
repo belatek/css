@@ -1,0 +1,36 @@
+
+h1 {
+color: orangered;
+}
+#navbar {
+    font-weight: bold;
+    background-color:yellow;
+    color: #fff;
+    padding: .5em;
+    
+        display: inline;
+      
+}
+
+body {
+background-color: rgb(226, 223, 223);
+}
+h1{
+    
+    text-align: center;
+}
+h4{
+    color: green;
+}
+#Name{
+    color: orangered;
+}
+#number{
+    color: orangered;
+}
+#date{
+    color: orangered;
+}
+#passeword{
+    color: orangered;
+}
